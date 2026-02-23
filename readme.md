@@ -31,5 +31,5 @@ pip install -r requirements.txt
 
 ```
 python3 python_ollama.py
-streamlit run 4_chatbot_ollama.py
+streamlit run ollama_chatbot.py
 ```
